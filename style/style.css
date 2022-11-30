@@ -1,0 +1,25 @@
+html {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color:rgba(58, 58, 1, 0.64) ;
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+p, li{
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgba(65, 138, 154, 0.178);
+    padding: 0 20px 20px 20px;
+    border: 3px solid rgb(143, 143, 143);
+}
+img {
+    display:block;
+    margin: 0 auto;
+    width: 80%;
+}
